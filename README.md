@@ -22,7 +22,7 @@ Users are provided with a form that asks for the book's title and author, as wel
 
 The books input by the user is displayed in a table with the book's title and author. The status of the book may be changed through a selection which will change the book's _status_ property in the `myLibrary` array. Next to the selection is a _delete_ button which allows the user to delete the book from the library.
 
-![view of the page](img/library-view.png)
+![view of the page](/img/Screenshot%20(653).png)
 
 ---
 
